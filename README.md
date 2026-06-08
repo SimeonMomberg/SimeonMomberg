@@ -1,7 +1,16 @@
-# 💫 About Me:
-👋 Hi, I'm Simeon Momberg!<br>I'm a passionate software developer with expertise in .NET, C#, and web development. I enjoy building scalable applications, solving complex problems, and continuously learning new technologies.<br><br>💡 I specialize in developing web applications, APIs, and microservices, focusing on performance and user experience.<br>📌 Always eager to collaborate on open-source projects and contribute to meaningful solutions.<br>🚀 Looking for opportunities to grow and work with innovative teams, no matter where in the world they are!<br><br>Check out my projects, and feel free to connect!
+# About Me
 
+**Hi, I'm Simeon Momberg** — a software developer based in Strand, South Africa.
 
+I build practical, well-structured applications across the full stack, with core expertise in
+C#, .NET, Python, and SQL. My work spans web applications, REST APIs, microservices, and
+desktop solutions, with a focus on clean architecture and delivering software that actually
+works for the people using it.
+
+I take ownership of my work, learn fast, and enjoy solving problems that matter. Currently
+consulting independently and open to opportunities — locally or remote.
+
+Feel free to explore my projects or reach out to connect.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simeonmomberg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simeonmomberg.work@gmail.com) 
 
