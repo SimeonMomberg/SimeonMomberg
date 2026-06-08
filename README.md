@@ -1,6 +1,6 @@
 # About Me
 
-**Hi, I'm Simeon Momberg** — a software developer based in Strand, South Africa.
+**Hi, I'm Simeon Momberg** a software developer based in Strand, South Africa.
 
 I build practical, well-structured applications across the full stack, with core expertise in
 C#, .NET, Python, and SQL. My work spans web applications, REST APIs, microservices, and
